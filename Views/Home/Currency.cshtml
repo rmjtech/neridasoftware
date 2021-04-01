@@ -1,0 +1,369 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+
+    /*.spanner {
+        position: absolute;
+        top: 50%;
+        left: 0;
+        background: #2a2a2a55;
+        width: 100%;
+        display: block;
+        text-align: center;
+        height: 100%;
+        color: #FFF;
+        transform: translateY(-50%);
+        z-index: 1000;
+        visibility: hidden;
+    }
+
+    .overlay {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        background: #fff;
+        visibility: hidden;
+    }
+
+    .loader,
+    .loader:before,
+    .loader:after {
+        border-radius: 50%;
+        width: 2.5em;
+        height: 2.5em;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation: load7 1.8s infinite ease-in-out;
+        animation: load7 1.8s infinite ease-in-out;
+    }
+
+    .loader {
+        background-color: #000000;
+        color: #ffffff;
+        font-size: 10px;
+        margin: 80px auto;
+        position: relative;
+        text-indent: -9999em;
+        -webkit-transform: translateZ(0);
+        -ms-transform: translateZ(0);
+        transform: translateZ(0);
+        -webkit-animation-delay: -0.16s;
+        animation-delay: -0.16s;
+    }
+
+        .loader:before,
+        .loader:after {
+            content: '';
+            position: absolute;
+            top: 0;
+        }
+
+        .loader:before {
+            left: -3.5em;
+            -webkit-animation-delay: -0.32s;
+            animation-delay: -0.32s;
+        }
+
+        .loader:after {
+            left: 3.5em;
+        }
+
+
+    .show {
+        visibility: visible;
+    }
+
+    .hide {
+        visibility: hidden;
+    }
+
+    .spanner, .overlay {
+        opacity: 0;
+        -webkit-transition: all 0.3s;
+        -moz-transition: all 0.3s;
+        transition: all 0.3s;
+    }
+
+        .spanner.show, .overlay.show {
+            opacity: 1;
+        }*/
+
+    ul.autocomplete-content.dropdown-content {
+        background-color: #eee;
+        box-shadow: 0px 0px 5px #ccc;
+        top: 30px !important;
+        left: 15px !important;
+        position: absolute !important;
+        z-index: 100;
+    }
+
+        ul.autocomplete-content.dropdown-content li {
+            list-style-type: none;
+            margin-left: -40px;
+            padding-left: 10px;
+            padding-top: 8px;
+            font-size: 14px;
+            color: #040f96 !important;
+            border-bottom: 1px solid #ccc;
+        }
+
+            ul.autocomplete-content.dropdown-content li:hover {
+                background-color: #f4f4f4;
+            }
+
+    .section-search input {
+        padding: 5px !important;
+        font-size: 18px !important;
+        width: 90% !important;
+        border: #f4f4f4 3px solid !important;
+        background-color: #808080 !important;
+        float: right;
+    }
+
+    .section-search i {
+        display: block;
+    }
+
+    .section-search input.autocomplete {
+        color: #040f96;
+    }
+
+    .input-field .prefix.active {
+        color: #040f96 !important;
+    }
+
+    .dropdown-content li > a, .dropdown-content li > span {
+        color: #040f96 !important;
+    }
+
+    .autocomplete-content li .highlight {
+        color: #040f96 !important;
+    }
+
+    .bootstrap-select .btn.dropdown-toggle.select-with-transition {
+        background-image: none;
+        border: 1px solid #ccc !important;
+        margin-top: 0;
+        height: 32px;
+    }
+
+    .bootstrap-select .dropdown-toggle .filter-option {
+        padding-top: 9px;
+        padding-left: 4px;
+        padding-right: 0px;
+    }
+    /*.dropdown-toggle:after
+    {
+        margin-left: 8.255em!important;
+    }*/
+
+    .bootstrap-select:not([class*=col-]):not([class*=form-control]):not(.input-group-btn) {
+        max-width: 100%;
+    }
+    /*.form-control.txtarea
+    {
+        width:765px;
+    }*/
+    .bmd-form-group .form-control, .bmd-form-group input::placeholder, .bmd-form-group label {
+        padding-left: 6px;
+    }
+</style>
+<script type="text/javascript">
+
+    angular.module('MyApp', []).controller('MyController', function ($scope, $http, $timeout) {
+
+     $scope.Recordsave = function () {
+            var validation = "";
+            var txtCurrencyCode = $('#txtCurrencyCode').val();
+            if (txtCurrencyCode.length == 0) {
+
+                validation += "<span style='color:red;'>*</span> <span>Please Enter Currency Code</span></br>"
+
+            }
+              var txtCurrencyName = $('#txtCurrencyName').val();
+            if (txtCurrencyName.length == 0) {
+
+               validation += "<span style='color:red;'>*</span> <span>Please Enter Currency Name</span></br>"
+            }
+            if (validation != "") {
+                alert(validation);
+                ShowPopup(validation);
+                 return false;
+            }
+
+            $('#overlay').fadeIn().delay(100).fadeOut();
+            var BussData = {}
+            var id = @Model.MasterDetails.ID;
+
+           if (id == "" || id == null)
+                BussData.ID = 0;
+            else
+                BussData.ID = @Model.MasterDetails.ID;
+            BussData.CurrencyCode = $scope.txtCurrencyCode;
+            BussData.CurrencyName = $scope.txtCurrencyName;
+
+            if ($scope.ChkStatus == 1) {
+
+                BussData.Status = 1;
+            }
+            else {
+                BussData.Status = 0;
+            }
+            BussData.Status = $scope.ChkStatus;
+
+
+
+            $http({
+                method: 'POST',
+                url: "/api/Home/Currency",
+                data: JSON.stringify(BussData),
+            }).success(function (result) {
+
+
+                $scope.Save = result;
+                $('#txtCurrencyCode').val('');
+                $('#txtCurrencyName').val('');
+                $('#ChkStatus').val('');
+                if (BussData.ID != "") {
+                  $('#overlay').hide;
+                    ShowPopup("Updated Successfully");
+                }
+                else {
+                    ShowPopup("Currency Master Saved Successfully");
+                }
+
+
+                return false;
+
+            });
+        }
+
+        $scope.BindCurrency = function () {
+
+            var Datavalue = {};
+            Datavalue.ID = localStorage.getItem("CurrencyID");
+             $http({
+                 method: 'POST',
+                 url: '/api/Home/Currencyviewparticular/',
+                 data: JSON.stringify(Datavalue),
+             }).then(function (result)
+             {
+                 $timeout(function ()
+                 {
+
+                     if (Datavalue.ID != "") {
+                          
+                         $scope.txtCurrencyCode = result.data[0].CurrencyCode;
+                         $scope.txtCurrencyName = result.data[0].CurrencyName;
+                         $scope.ChkStatus = result.data[0].Status;
+
+                     }
+                     else {
+                     $scope.txtCurrencyCode = "";
+                     $scope.txtCurrencyName = "";
+                     $scope.ChkStatus = 0;
+                      }
+                 });
+             });
+            $scope.back = function () {
+                
+            window.location = "/Home/CurrencyView";
+        }
+         }
+        $scope.BindCurrency();
+    });
+
+    function ShowPopup(message) {
+        swal(message);
+    };
+
+</script>
+
+<div ng-app="MyApp" ng-controller="MyController">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="text-align:right;">
+                <button type="submit" ng-click="back();" class="btn btn-fill btn-success btn-round btntop">
+                    <i class="material-icons">reply</i>
+
+                </button>
+                <button type="submit" ng-click="AddNew();" class="btn btn-fill btn-warning btn-round btntop">
+                    <i class="material-icons">edit</i>
+
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card ">
+                    <div class="card-header card-header-rose card-header-text">
+                        <div class="card-text">
+                            <h4 class="card-title">Currency Master</h4>
+                        </div>
+                    </div>
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Currency Code</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7">
+                                            <input type="text" autocomplete="off" id="txtCurrencyCode" ng-model="txtCurrencyCode" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Currency Name</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7">
+                                            <input type="text" id="txtCurrencyName" autocomplete="off" ng-model="txtCurrencyName" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Status</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7 input-field">
+                                            <div class="togglebutton">
+                                                <label>
+                                                    <input type="checkbox" ng-true-value="1" ng-false-value="0" ng-checked="ChkStatus == 1" id="ChkStatus" ng-model="ChkStatus" value="ChkStatus">
+                                                    <span class="toggle"></span>
+
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                    <div class="card-footer ">
+                        <div class="col-md-12" style="text-align:right;">
+                            <button type="submit" ng-click="Recordsave();" class="btn btn-fill btn-rose">Submit</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,576 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript">
+
+    angular.module('MyApp', []).controller('MyController', function ($scope, $http, $timeout) {
+
+
+    });
+    function SaveRecord() {
+        alert('test');
+    }
+    function ShowPopup(message) {
+        swal(message);
+    };
+
+</script>
+<style>
+    .col-md-5.lbl2 {
+        width: 100px !important;
+    }
+
+    .lblfont {
+        width: 100px !important;
+    }
+
+    .card-wizard {
+        box-shadow: none !important;
+        border: 1px solid #ccc;
+    }
+
+    .form-group {
+        padding-bottom: 5px !important;
+    }
+
+    .ml-auto, .mx-auto {
+        margin-top: 20px;
+    }
+</style>
+<div ng-app="MyApp" ng-controller="MyController">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="text-align:right;">
+                <button type="submit" ng-click="back();" class="btn btn-fill btn-success btn-round btntop">
+                    <i class="material-icons">reply</i>
+
+                </button>
+                <button type="submit" ng-click="AddNew();" class="btn btn-fill btn-warning btn-round btntop">
+                    <i class="material-icons">edit</i>
+
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card ">
+                    <div class="card-header card-header-rose card-header-text">
+                        <div class="card-text">
+                            <h4 class="card-title">Agency Master</h4>
+                        </div>
+                    </div>
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="wizard-container">
+                                    <div class="card card-wizard" data-color="rose">
+                                        <div class="wizard-navigation">
+                                            <ul class="nav nav-pills">
+                                                <li class="nav-item">
+                                                    <a class="nav-link active" href="#agencydetails" data-toggle="tab" role="tab">
+                                                        Agency Details
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#portdetails" data-toggle="tab" role="tab">
+                                                        Port Details
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#location" data-toggle="tab" role="tab">
+                                                        Location Details
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#account" data-toggle="tab" role="tab">
+                                                        Accounting Details
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#alertmails" data-toggle="tab" role="tab">
+                                                        Alert Mails
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="card-body">
+                                            <div class="tab-content">
+                                                <div class="tab-pane active" id="agencydetails">
+                                                    <div class="row">
+                                                        <div class="col-md-12">
+                                                            <div class="row">
+                                                                <div class="col-md-12">
+                                                                    <div class="col-md-12">
+                                                                        <div class="row">
+                                                                            <div class="col-md-6">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Agency Code</label>
+                                                                                            <input type="text" autocomplete="off" id="txtAgencyCode" ng-model="txtAgencyCode" class="form-control">
+                                                                                        </div>
+                                                                                        
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-6">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Agency Name</label>
+                                                                                            <input type="text" autocomplete="off" id="txtAgencyName" ng-model="txtAgencyName" class="form-control">
+                                                                                        </div>
+                                                                                       
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                
+                                                                    <div class="col-md-12">
+                                                                        <div class="row">
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>City</label>
+                                                                                            <select id="ddlCity" class="form-control"></select>
+                                                                                        </div>
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Country</label>
+                                                                                            <select id="ddlCountry" class="form-control"></select>
+                                                                                        </div>
+
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>State</label>
+                                                                                            <select id="ddlState" class="form-control"></select>
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+
+                                                                    <div class="col-md-12">
+                                                                        <div class="row">
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Tax/GST Number</label>
+                                                                                            <input type="text" id="txtTaxNo" class="form-control" />
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Organization Type</label>
+                                                                                            <select id="ddlOrganization" class="form-control"></select>
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Own Office</label>
+                                                                                            <select id="ddlOwnOffice" class="form-control"></select>
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <div class="col-md-12">
+                                                                        <div class="row">
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Document Suffix</label>
+                                                                                            <input type="text" autocomplete="off" id="txtDocSuffix" ng-model="txtDocSuffix" class="form-control">
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Registration/PAN Number</label>
+                                                                                            <input type="text" autocomplete="off" id="txtRgPanNo" ng-model="txtRgPanNo" class="form-control">
+                                                                                        </div>
+
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                            <div class="col-md-4">
+                                                                                <div class="form-group">
+                                                                                    <div class="row">
+                                                                                        <div class="col-md-12">
+                                                                                            <label>Status</label>
+                                                                                            <div class="togglebutton">
+                                                                                                <label>
+                                                                                                    <input type="checkbox" ng-true-value="1" ng-false-value="0" ng-checked="ChkStatus == 1" id="ChkStatus" ng-model="ChkStatus" value="ChkStatus">
+                                                                                                    <span class="toggle"></span>
+
+                                                                                                </label>
+                                                                                            </div>
+                                                                                        </div>
+                                                                                        
+                                                                                    </div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-12">
+                                                                        <div class="form-group">
+                                                                            <div class="row">
+                                                                                <div class="col-md-6">
+                                                                                    <label>Address</label>
+                                                                                    <textarea id="txtAddress" autocomplete="off" rows="5" ng-model="txtAddress" class="form-control"></textarea>
+                                                                                </div>
+                                                                                <div class="col-md-6">
+                                                                                    <label>Note</label>
+                                                                                    <textarea id="txtNote" autocomplete="off" rows="5" ng-model="txtNote" class="form-control"></textarea>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                </div>
+                                                            
+                                                            </div>
+                                                        </div>
+
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="ml-auto">
+                                                            <button type="submit" class="btn btn-fill btn-success">
+                                                                <i class="material-icons">save</i>
+                                                                Save
+                                                            </button>
+                                                            <button type="submit" class="btn btn-fill btn-warning">
+                                                                <i class="material-icons">reply</i>
+                                                                Back
+                                                            </button>
+                                                            <button type="submit" class="btn btn-fill btn-danger">
+                                                                <i class="material-icons">delete</i>
+                                                                Delete
+                                                            </button>
+                                                        </div>
+                                                        <div class="clearfix"></div>
+                                                    </div>
+                                                </div>
+                                                <div class="tab-pane" id="portdetails">
+                                                    <div class="row">
+                                                        <div class="col-md-4">
+                                                            <div class="form-group">
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <label>Port Code</label>
+                                                                        <select id="ddlPortCode" class="form-control"></select>
+                                                                    </div>
+
+                                                                </div>
+                                                                <div class="row">
+                                                                    <div class="ml-auto">
+                                                                        <button type="submit" class="btn btn-fill btn-success">
+                                                                            <i class="material-icons">add</i>
+                                                                            Add
+                                                                        </button>
+                                                                      
+                                                                        <button type="submit" class="btn btn-fill btn-danger">
+                                                                            <i class="material-icons">delete</i>
+                                                                            Delete
+                                                                        </button>
+                                                                    </div>
+                                                                    <div class="clearfix"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <div class="material-datatables">
+
+                                                                <table class="table table-striped table-no-bordered table-hover" cellspacing="0" width="100%" style="width:100%">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th>Port Code</th>
+                                                                            <th>Port Name</th>
+                                                                        </tr>
+                                                                    </thead>
+
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                    </table>
+                                                            </div>
+                                                        </div>
+                                                        </div>
+                                                </div>
+                                                <div class="tab-pane" id="location">
+                                                    <div class="row">
+                                                        <div class="col-md-4">
+                                                            <div class="form-group">
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <label>City Code</label>
+                                                                        <select id="ddlPortCode" class="form-control"></select>
+                                                                    </div>
+
+                                                                </div>
+                                                                <div class="row">
+                                                                    <div class="ml-auto">
+                                                                        <button type="submit" class="btn btn-fill btn-success">
+                                                                            <i class="material-icons">add</i>
+                                                                            Add
+                                                                        </button>
+
+                                                                        <button type="submit" class="btn btn-fill btn-danger">
+                                                                            <i class="material-icons">delete</i>
+                                                                            Delete
+                                                                        </button>
+                                                                    </div>
+                                                                    <div class="clearfix"></div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-8">
+                                                            <div class="material-datatables">
+
+                                                                <table class="table table-striped table-no-bordered table-hover" cellspacing="0" width="100%" style="width:100%">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th>City Code</th>
+                                                                            <th>City Name</th>
+                                                                        </tr>
+                                                                    </thead>
+
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="tab-pane" id="account">
+                                                    <div class="row">
+                                                        <div class="col-md-12">
+                                                            <div class="row">
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Accounting Currency</label>
+                                                                                <select id="ddlAccCurrency" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Primary Period From</label>
+                                                                                <select id="ddlPrimaryPeriod" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Primary Period To</label>
+                                                                                <select id="ddlPrimaryTo" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Secondary Period Required</label>
+                                                                                <select id="ddlSecPerReq" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Secondary Period From</label>
+                                                                                <select id="ddlSecPeriodFrom" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-4">
+                                                                    <div class="form-group">
+                                                                        <div class="row">
+                                                                            <div class="col-md-12">
+                                                                                <label>Secondary Period To</label>
+                                                                                <select id="ddlSecPeriodTo" class="form-control"></select>
+                                                                            </div>
+
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="col-md-12">
+                                                                    <label>Note</label>
+                                                                    <textarea id="txtNote" autocomplete="off" rows="5" ng-model="txtNote" class="form-control"></textarea>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="tab-pane" id="alertmails">
+                                                    <div class="row">
+                                                        <div class="col-md-6">
+                                                            <div class="form-group">
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <label>Alert Type</label>
+                                                                        <select id="ddlAlertType" class="form-control"></select>
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-6">
+                                                            <div class="form-group">
+                                                                <div class="row">
+                                                                    <div class="col-md-12">
+                                                                        <label>Email ID</label>
+                                                                        <input type="text" id="txtEmailID" class="form-control" ng-model="txtEmailID" />
+                                                                    </div>
+
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="ml-auto">
+                                                            <button type="submit" class="btn btn-fill btn-success">
+                                                                <i class="material-icons">add</i>
+                                                                Add
+                                                            </button>
+                                                            <button type="submit" class="btn btn-fill btn-warning">
+                                                                <i class="material-icons">edit</i>
+                                                                Update
+                                                            </button>
+                                                            <button type="submit" class="btn btn-fill btn-danger">
+                                                                <i class="material-icons">delete</i>
+                                                                Delete
+                                                            </button>
+                                                        </div>
+                                                        <div class="clearfix"></div>
+                                                    </div>
+                                                    <div class="row">
+                                                        <div class="col-md-12">
+                                                            <div class="material-datatables">
+
+                                                                <table class="table table-striped table-no-bordered table-hover" cellspacing="0" width="100%" style="width:100%">
+                                                                    <thead>
+                                                                        <tr>
+                                                                            <th>Alert Type</th>
+                                                                            <th>Email ID</th>
+                                                                        </tr>
+                                                                    </thead>
+
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td></td>
+                                                                            <td></td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+
+                                        </div>
+                                    </div>
+                                    @*<div class="card-footer">
+                                            <div class="ml-auto">
+                                                <button type="submit" class="btn btn-fill btn-success">
+                                                    <i class="material-icons">add</i>
+                                                    Add
+                                                </button>
+                                                <button type="submit" class="btn btn-fill btn-warning">
+                                                    <i class="material-icons">edit</i>
+                                                    Edit
+                                                </button>
+                                                <button type="submit" class="btn btn-fill btn-danger">
+                                                    <i class="material-icons">delete</i>
+                                                    Delete
+                                                </button>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>*@
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+        // Initialise the wizard
+        demo.initMaterialWizard();
+        setTimeout(function () {
+            $('.card.card-wizard').addClass('active');
+        }, 600);
+    });
+</script>
+

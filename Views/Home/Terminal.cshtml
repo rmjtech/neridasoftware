@@ -1,0 +1,259 @@
+﻿@model  NVOCShipping.Models.MasterModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .form-control.txtarea {
+        width: 100%;
+        margin-left: -42px;
+    }
+</style>
+<script type="text/javascript">
+
+    angular.module('MyApp', []).controller('MyController', function ($scope, $http, $timeout) {
+
+     $scope.Recordsave = function () {
+         var validation = "";
+            var txtTerminalCode = $('#txtTerminalCode').val();
+            if (txtTerminalCode.length == 0) {
+                validation += "<span style='color:red;'>*</span> <span>Please Enter Terminal Code</span></br>"
+            }
+              var txtTerminalName = $('#txtTerminalName').val();
+            if (txtTerminalName.length == 0) {
+
+               validation += "<span style='color:red;'>*</span> <span>Please Enter Terminal Name</span></br>"
+         }
+         //var ddlCountry = $('#ddlCountry').val();
+         //   if (ddlCountry.length == "?") {
+
+         //      validation += "<span style='color:red;'>*</span> <span>Please Select Country</span></br>"
+         //}
+         //var ddlCity = $('#ddlCity').val();
+         //   if (ddlCity.length == "?") {
+
+         //      validation += "<span style='color:red;'>*</span> <span>Please Select City</span></br>"
+         //   }
+
+            if (validation != "") {
+
+                ShowPopup(validation);
+                 return false;
+            }
+
+            $('#overlay').fadeIn().delay(100).fadeOut();
+      
+         var BussData = {}
+         var Datavalue = {};
+         Datavalue.ID = localStorage.getItem("TerminalID");
+         if (Datavalue.ID == "" || Datavalue.ID == null)
+            
+             BussData.ID = 0;
+         else
+             BussData.ID = Datavalue.ID;
+         alert(Datavalue.ID);
+         BussData.TerminalCode = $scope.txtTerminalCode;
+         BussData.TerminalName = $scope.txtTerminalName;
+         BussData.PortID =  $('#ddlPort').val();
+            if ($scope.ChkStatus == 1)
+                BussData.Status = 1;
+            else
+                BussData.Status = 0;
+            BussData.Status = $scope.ChkStatus;
+
+            $http({
+                method: 'POST',
+                url: "/api/Home/Terminal",
+                data: JSON.stringify(BussData),
+            }).success(function (result) {
+
+
+                $scope.Save = result;
+                $('#txtTerminalCode').val('');
+                $('#txtTerminalName').val('');
+                $('#ddlPort').val('');
+                $('#ChkStatus').val('');
+
+                if (BussData.ID != "") {
+                    alert(BussData.ID);
+                  $('#overlay').hide;
+                    ShowPopup("Updated Successfully");
+                }
+                else {
+                    ShowPopup("Terminal Master Saved Successfully");
+                }
+
+
+
+                return false;
+
+            });
+        }
+
+        $scope.Port = null;
+        $scope.fillPort = function () {
+
+            $http({
+                method: 'POST',
+                url: '/api/Home/portBind/',
+                data: {}
+            }).then(function (result) {
+                $timeout(function () {
+
+                    $scope.Port = result.data;
+
+                });
+            });
+        };
+        $scope.fillPort();
+
+
+           $scope.BindTerminal = function () {
+
+            var Datavalue = {};
+            Datavalue.ID = localStorage.getItem("TerminalID");
+             $http({
+                 method: 'POST',
+                 url: '/api/Home/TerminalRecord/',
+                 data: JSON.stringify(Datavalue),
+             }).then(function (result)
+             {
+                 $timeout(function ()
+                 {
+
+                     if (Datavalue.ID != "") {
+
+                         $scope.txtTerminalCode = result.data[0].TerminalCode;
+                         $scope.txtTerminalName = result.data[0].TerminalName;
+                         $scope.ddlPort = { ID: result.data[0].PortID };
+                         $scope.ChkStatus = result.data[0].Status;
+
+                     }
+                     else {
+                     $scope.txtDepName = "";
+                         $scope.TerminalCode = "";
+                         $scope.TerminalName = "";
+                         $('#ddlPort').val() = 0;
+                         $scope.ChkStatus = 0;
+                      }
+                 });
+             });
+            $scope.back = function () {
+
+            window.location = "/Home/TerminalView";
+            }
+
+         }
+        $scope.BindTerminal();
+    });
+
+    function ShowPopup(message) {
+        swal(message);
+    };
+
+</script>
+
+<div ng-app="MyApp" ng-controller="MyController">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="text-align:right;">
+                <button type="submit" ng-click="back();" class="btn btn-fill btn-success btn-round btntop">
+                    <i class="material-icons">reply</i>
+
+                </button>
+                <button type="submit" ng-click="AddNew();" class="btn btn-fill btn-warning btn-round btntop">
+                    <i class="material-icons">edit</i>
+
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card ">
+                    <div class="card-header card-header-rose card-header-text">
+                        <div class="card-text">
+                            <h4 class="card-title">Terminal Master</h4>
+                        </div>
+                    </div>
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Terminal Code</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7">
+                                            <input type="text" autocomplete="off" id="txtTerminalCode" ng-model="txtTerminalCode" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Terminal Name</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7">
+                                            <input type="text" autocomplete="off" id="txtTerminalName" ng-model="txtTerminalName" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Port</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7">
+                                            <select id="ddlPort" ng-model="ddlPort" class="form-control" ng-options="item.PortName for item in Port track by item.ID"></select>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-4">
+                                            <label>Status</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-7 input-field">
+                                            <div class="togglebutton">
+                                                <label>
+                                                    <input type="checkbox" ng-true-value="1" ng-false-value="0" ng-checked="ChkStatus == 1" id="ChkStatus" ng-model="ChkStatus" value="ChkStatus">
+                                                    <span class="toggle"></span>
+
+                                                </label>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                    </div>
+                    <div class="card-footer ">
+                        <div class="col-md-12" style="text-align:right;">
+                            <button type="submit" ng-click="Recordsave();" class="btn btn-fill btn-rose">Submit</button>
+                            <input type="hidden" id="RegId" name="RegId"  />
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+

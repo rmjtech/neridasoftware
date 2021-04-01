@@ -1,0 +1,183 @@
+﻿.card
+{
+    margin-top:30px!important;
+    
+}
+.swal2-popup .swal2-title {
+    font-size: 18px;
+    display: block!important;
+    /*color: red;*/
+}
+.main-panel {
+    width: calc(101.6% - 260px);
+}
+.navbar.fixed-top
+{
+    top:-5px;
+}
+.navbar.navbar-absolute
+{
+    padding-top:7px;
+}
+.navbar {
+    
+    height:61px!important;
+}
+    .navbar.navbar-transparent {
+        background-color: #0585b5 !important;
+        color: #fff;
+    }
+    .sidebar .logo {
+        background-color: #fff;
+        padding: 0px 15px !important;
+    }
+.sidebar .nav
+{
+    margin-top:0!important;
+}
+.sidebar
+{
+    width:237px!important;
+}
+.sidebar-mini .sidebar, .sidebar-mini .sidebar .sidebar-wrapper
+{
+    width:80px!important;
+}
+.logo-normal img {
+    width: 64px;
+    padding-right: 6px;
+}
+.logo-normal span {
+    color: #00aff0;
+    font-size:17px;
+    font-weight:600;
+}
+.sidebar .sidebar-background:after {
+    background-color: #0585b5 !important;
+    /*background: #00aff0!important;*/
+    /*background-color:#074ac5 !important;*/
+}
+.sidebar .nav i
+{
+    color:#fff!important;
+}
+.sidebar .nav li .dropdown-menu a, .sidebar .nav li a {
+    margin: 0px -3px 0;
+    font-size: 13px;
+    text-transform: uppercase;
+    /*border-bottom: 1px solid #ffffff87;*/
+}
+.sidebar .nav p {
+    font-size: 13px!important;
+    line-height:30px;
+}
+.nav-link
+{
+    padding:5px 0;
+}
+.sidebar .nav i {
+    margin-right: 6px;
+}
+.sidebar .nav li:first-child > a
+{
+    margin:0;
+}
+.form-control
+{
+    border-radius:3px;
+}
+.dropdown-menu {
+    width: 200px !important;
+}
+.bootstrap-datetimepicker-widget.dropdown-menu
+{
+    width:100%!important;
+}
+div.dataTables_wrapper div.dataTables_filter
+{
+    display:none;
+}
+.dataTables_length
+{
+    display:none;
+}
+.padl0
+{
+    padding-left:0;
+}
+.padr0
+{
+    padding-right:0;
+}
+.padlr0
+{
+    padding-left:0;
+    padding-right:0;
+}
+.form-control,.form-group input::placeholder
+{
+    padding-left:8px!important;
+}
+select.form-control:not([size]):not([multiple])
+{
+    height:32px;
+}
+.btn.searchbtn {
+    padding: 12px 27px;
+}
+.main-panel > .content
+{
+    margin-top:27px;
+}
+.pagination {
+    display: inline-flex;
+    margin: 2px 0;
+    white-space: nowrap;
+    justify-content: flex-end;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+}
+    .pagination li a.ng-binding {
+        border: 0;
+        border-radius: 30px !important;
+        transition: all .3s;
+        padding: 0 7px;
+        margin: 0 3px;
+        min-width: 30px;
+        height: 30px;
+        line-height: 30px;
+        color: #999;
+        font-weight: 400;
+        font-size: 12px;
+        text-transform: uppercase;
+        background: transparent;
+        text-align: center;
+    }
+    .pagination > li.ng-scope.active {
+        background-color: #e91e63;
+        border-color: #e91e63;
+        color: #fff;
+        box-shadow: 0 4px 5px 0 rgb(156 39 176 / 14%), 0 1px 10px 0 rgb(156 39 176 / 12%), 0 2px 4px -1px rgb(156 39 176 / 20%);
+        border-radius: 50%;
+        width: 30px;
+        height: 30px;
+        text-align: center;
+    }
+    .pagination > li.ng-scope.active a
+    {
+        color:#fff;
+    }
+.card.bg-primary, .card .card-header-primary .card-icon, .card .card-header-primary .card-text, .card .card-header-primary:not(.card-header-icon):not(.card-header-text), .card.card-rotate.bg-primary .back, .card.card-rotate.bg-primary .front {
+    background: linear-gradient( 60deg,#e91e63,#dc1f6e);
+}
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+    padding: 6px 8px;
+}
+.row .btn.btn-round.btntop {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    padding: 0px;
+}
+

@@ -1,0 +1,409 @@
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<script type="text/javascript">
+
+    angular.module('MyApp', []).controller('MyController', function ($scope, $http, $timeout) {
+
+
+    });
+    function SaveRecord() {
+        alert('test');
+    }
+    function ShowPopup(message) {
+        swal(message);
+    };
+
+</script>
+<style>
+    .col-md-5.lbl2 {
+        width: 100px !important;
+    }
+
+    .lblfont {
+        width: 100px !important;
+    }
+
+    .card-wizard {
+        box-shadow: none !important;
+        border: 1px solid #ccc;
+    }
+    .form-group
+    {
+        padding-bottom:5px!important;
+    }
+    .ml-auto, .mx-auto
+    {
+        margin-top:20px;
+    }
+</style>
+<div ng-app="MyApp" ng-controller="MyController">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12" style="text-align:right;">
+                <button type="submit" ng-click="back();" class="btn btn-fill btn-success btn-round btntop">
+                    <i class="material-icons">reply</i>
+
+                </button>
+                <button type="submit" ng-click="AddNew();" class="btn btn-fill btn-warning btn-round btntop">
+                    <i class="material-icons">edit</i>
+
+                </button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card ">
+                    <div class="card-header card-header-rose card-header-text">
+                        <div class="card-text">
+                            <h4 class="card-title">Customer Master</h4>
+                        </div>
+                    </div>
+                    <div class="card-body ">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="wizard-container">
+                                    <div class="card card-wizard" data-color="rose">
+                                        <div class="wizard-navigation">
+                                            <ul class="nav nav-pills">
+                                                <li class="nav-item">
+                                                    <a class="nav-link active" href="#customerdetails" data-toggle="tab" role="tab">
+                                                        Customer Details
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#branchloc" data-toggle="tab" role="tab">
+                                                        Branch Location
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#attachments" data-toggle="tab" role="tab">
+                                                        Attachments
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#emailalerts" data-toggle="tab" role="tab">
+                                                        Email Alerts
+                                                    </a>
+                                                </li>
+                                                <li class="nav-item">
+                                                    <a class="nav-link" href="#addinfo" data-toggle="tab" role="tab">
+                                                        Additional Information
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                        <div class="card-body">
+                                            <div class="tab-content">
+                                                <div class="tab-pane active" id="customerdetails">
+                                                    <div class="row">
+                <div class="col-md-12">
+                    <div class="row">
+                        <div class="col-md-9">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-3">
+                                            <label>Country Name</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-8">
+                                            <input type="text" autocomplete="off" id="txtCustomerName" ng-model="txtCustomerName" class="form-control">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label class="lblfont">Country</label>
+                                                    <select id="ddlCountry" class="form-control"></select>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>City</label>
+                                                    <select id="ddlCity" class="form-control"></select>
+                                                </div>
+
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>State</label>
+                                                    <select id="ddlState" class="form-control"></select>
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>Pin Code</label>
+                                                    <input type="text" id="txtPinCode" class="form-control" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>Tel</label>
+                                                    <input type="text" id="txtTel" class="form-control" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-4">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>Fax</label>
+                                                    <input type="text" id="txtFax" class="form-control" />
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="row">
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>GSTIN/Tax id</label>
+                                                    <input type="text" autocomplete="off" id="txtGstIn" ng-model="txtGstIn" class="form-control">
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <div class="form-group">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <label>Email ID</label>
+                                                    <input type="text" autocomplete="off" id="txtEmailid" ng-model="txtEmailid" class="form-control">
+                                                </div>
+
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                    <div class="row">
+                                        <div class="col-md-2">
+                                            <label>Address</label>
+                                        </div>
+                                        <div class="col-md-1">:</div>
+                                        <div class="col-md-9">
+                                            <textarea id="txtAddress" autocomplete="off" rows="5" ng-model="txtAddress" class="form-control"></textarea>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-md-3">
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Shipper
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Consignee
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Notify
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> CHA
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> NFS
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Transporter
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Carrier
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Vessel Operator
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Leasing Partner
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Container Surveyour
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                    <div class="form-check">
+                                        <label class="form-check-label">
+                                            <input class="form-check-input" type="checkbox" value=""> Forwarder
+                                            <span class="form-check-sign">
+                                                <span class="check"></span>
+                                            </span>
+                                        </label>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="row">
+                <div class="ml-auto">
+                    <button type="submit" class="btn btn-fill btn-success">
+                        <i class="material-icons">save</i>
+                        Save
+                    </button>
+                    <button type="submit" class="btn btn-fill btn-warning">
+                        <i class="material-icons">reply</i>
+                        Back
+                    </button>
+                    <button type="submit" class="btn btn-fill btn-danger">
+                        <i class="material-icons">delete</i>
+                        Delete
+                    </button>
+                </div>
+                <div class="clearfix"></div>
+            </div>
+                                                </div>
+                                                <div class="tab-pane" id="branchloc">
+                                                  <button id="Savebtn" onclick="SaveRecord();">Save</button>
+                                                </div>
+                                                <div class="tab-pane" id="attachments">
+                                                    dasdf
+                                                </div>
+                                                <div class="tab-pane" id="emailalerts">
+                                                    asfs
+                                                </div>
+                                                <div class="tab-pane" id="addinfo">
+                                                    asd
+                                                </div>
+                                            </div>
+                                               
+
+                                            </div>
+                                        </div>
+                                        @*<div class="card-footer">
+                                            <div class="ml-auto">
+                                                <button type="submit" class="btn btn-fill btn-success">
+                                                    <i class="material-icons">add</i>
+                                                    Add
+                                                </button>
+                                                <button type="submit" class="btn btn-fill btn-warning">
+                                                    <i class="material-icons">edit</i>
+                                                    Edit
+                                                </button>
+                                                <button type="submit" class="btn btn-fill btn-danger">
+                                                    <i class="material-icons">delete</i>
+                                                    Delete
+                                                </button>
+                                            </div>
+                                            <div class="clearfix"></div>
+                                        </div>*@
+
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+<script>
+    $(document).ready(function () {
+        // Initialise the wizard
+        demo.initMaterialWizard();
+        setTimeout(function () {
+            $('.card.card-wizard').addClass('active');
+        }, 600);
+    });
+</script>
+
