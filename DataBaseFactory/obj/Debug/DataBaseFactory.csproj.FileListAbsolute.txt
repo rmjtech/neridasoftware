@@ -1,0 +1,239 @@
+D:\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\SunDoc\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\SunDoc\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Doors\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Doors\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Doors\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Doors\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Doors\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\Software\Olympic Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\Software\Olympic Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\PlaySchools\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\SGA\SGA\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\navioGST web\ENav1\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Server backup\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio_Customer\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio_Customer\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio_Customer\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio-MVC_Customer\Navio_Software\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+E:\Navio-Product\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+E:\Navio-Product\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+E:\Navio-Product\DataBaseFactory\bin\Debug\Infrastructure.dll
+E:\Navio-Product\DataBaseFactory\bin\Debug\Infrastructure.pdb
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+E:\Navio-Product\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojResolveAssemblyReference.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.pdb
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+D:\NVOC\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.csproj.CopyComplete
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataBaseFactory\obj\Debug\DataBaseFactory.pdb

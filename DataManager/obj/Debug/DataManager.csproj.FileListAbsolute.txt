@@ -1,0 +1,363 @@
+D:\SunDoc\DataManager\bin\Debug\DataManager.dll
+D:\SunDoc\DataManager\bin\Debug\DataManager.pdb
+D:\SunDoc\DataManager\obj\Debug\DataManager.dll
+D:\SunDoc\DataManager\obj\Debug\DataManager.pdb
+D:\SunDoc\DataManager\bin\Debug\DataBaseFactory.dll
+D:\SunDoc\DataManager\bin\Debug\DataTier.dll
+D:\SunDoc\DataManager\bin\Debug\Infrastructure.dll
+D:\SunDoc\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\SunDoc\DataManager\bin\Debug\DataTier.pdb
+D:\SunDoc\DataManager\bin\Debug\Infrastructure.pdb
+D:\SunDoc\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\SunDoc\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SunDoc\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\SunDoc\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SunDoc\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\SunDoc\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\SunDoc\DataManager\obj\Debug\DataManager.pdb
+D:\Doors\DataManager\bin\Debug\DataManager.dll
+D:\Doors\DataManager\bin\Debug\DataManager.pdb
+D:\Doors\DataManager\bin\Debug\DataBaseFactory.dll
+D:\Doors\DataManager\bin\Debug\DataTier.dll
+D:\Doors\DataManager\bin\Debug\Infrastructure.dll
+D:\Doors\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\Doors\DataManager\bin\Debug\DataTier.pdb
+D:\Doors\DataManager\bin\Debug\Infrastructure.pdb
+D:\Doors\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Doors\DataManager\obj\Debug\DataManager.dll
+D:\Doors\DataManager\obj\Debug\DataManager.pdb
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.dll
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.pdb
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.dll
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.dll
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.dll
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.pdb
+D:\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.pdb
+D:\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.dll
+D:\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\Olympic Software\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\Olympic Software\DataManager\obj\Debug\DataManager.pdb
+F:\Software\Olympic Software\DataManager\bin\Debug\DataManager.dll
+F:\Software\Olympic Software\DataManager\bin\Debug\DataManager.pdb
+F:\Software\Olympic Software\DataManager\bin\Debug\DataBaseFactory.dll
+F:\Software\Olympic Software\DataManager\bin\Debug\DataTier.dll
+F:\Software\Olympic Software\DataManager\bin\Debug\Infrastructure.dll
+F:\Software\Olympic Software\DataManager\bin\Debug\DataBaseFactory.pdb
+F:\Software\Olympic Software\DataManager\bin\Debug\DataTier.pdb
+F:\Software\Olympic Software\DataManager\bin\Debug\Infrastructure.pdb
+F:\Software\Olympic Software\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+F:\Software\Olympic Software\DataManager\obj\Debug\DataManager.dll
+F:\Software\Olympic Software\DataManager\obj\Debug\DataManager.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataManager.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataManager.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataBaseFactory.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataTier.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\Infrastructure.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataBaseFactory.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\DataTier.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\bin\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\obj\Debug\DataManager.dll
+F:\Software\Matrimonial\MatrimonialApplications\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\PlaySchools\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\PlaySchools\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\PlaySchools\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\PlaySchools\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\Majestic Project\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\Majestic Project\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\Majestic Project\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\KumarBuilders\Majestic Project\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\KumarBuilders\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\KumarBuilders\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\SGA\SGA\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\SGA\SGA\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\SGA\SGA\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\ENav\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\ENav\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\ENav\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\ENav\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\ENav\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\ENav\DataManager\obj\Debug\DataManager.pdb
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataManager.dll
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataManager.pdb
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataBaseFactory.dll
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataTier.dll
+D:\WebApplication\ENav1\DataManager\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\WebApplication\ENav1\DataManager\bin\Debug\DataTier.pdb
+D:\WebApplication\ENav1\DataManager\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav1\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav1\DataManager\obj\Debug\DataManager.dll
+D:\WebApplication\ENav1\DataManager\obj\Debug\DataManager.pdb
+E:\Server backup\ENav1\DataManager\bin\Debug\DataManager.dll
+E:\Server backup\ENav1\DataManager\bin\Debug\DataManager.pdb
+E:\Server backup\ENav1\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Server backup\ENav1\DataManager\bin\Debug\DataTier.dll
+E:\Server backup\ENav1\DataManager\bin\Debug\Infrastructure.dll
+E:\Server backup\ENav1\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\ENav1\DataManager\bin\Debug\DataTier.pdb
+E:\Server backup\ENav1\DataManager\bin\Debug\Infrastructure.pdb
+E:\Server backup\ENav1\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Server backup\ENav1\DataManager\obj\Debug\DataManager.dll
+E:\Server backup\ENav1\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataManager.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataTier.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\DataTier.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\obj\Debug\DataManager.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\DataManager\obj\Debug\DataManager.pdb
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataManager.dll
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataManager.pdb
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataTier.dll
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\Infrastructure.dll
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\DataTier.pdb
+E:\Server backup\navioGST web\ENav1\DataManager\bin\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Server backup\navioGST web\ENav1\DataManager\obj\Debug\DataManager.dll
+E:\Server backup\navioGST web\ENav1\DataManager\obj\Debug\DataManager.pdb
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataManager.dll
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataManager.pdb
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataTier.dll
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\Infrastructure.dll
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\DataTier.pdb
+E:\Server backup\Navio_Customer\DataManager\bin\Debug\Infrastructure.pdb
+E:\Server backup\Navio_Customer\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Server backup\Navio_Customer\DataManager\obj\Debug\DataManager.dll
+E:\Server backup\Navio_Customer\DataManager\obj\Debug\DataManager.pdb
+D:\Navio_Customer\DataManager\bin\Debug\DataManager.dll
+D:\Navio_Customer\DataManager\bin\Debug\DataManager.pdb
+D:\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.dll
+D:\Navio_Customer\DataManager\bin\Debug\DataTier.dll
+D:\Navio_Customer\DataManager\bin\Debug\Infrastructure.dll
+D:\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\Navio_Customer\DataManager\bin\Debug\DataTier.pdb
+D:\Navio_Customer\DataManager\bin\Debug\Infrastructure.pdb
+D:\Navio_Customer\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\Navio_Customer\DataManager\obj\Debug\DataManager.dll
+D:\Navio_Customer\DataManager\obj\Debug\DataManager.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataManager.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataManager.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataTier.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\Infrastructure.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\DataTier.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\bin\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\obj\Debug\DataManager.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\DataManager\obj\Debug\DataManager.pdb
+E:\Navio_Customer\DataManager\bin\Debug\DataManager.dll
+E:\Navio_Customer\DataManager\bin\Debug\DataManager.pdb
+E:\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Navio_Customer\DataManager\bin\Debug\DataTier.dll
+E:\Navio_Customer\DataManager\bin\Debug\Infrastructure.dll
+E:\Navio_Customer\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Navio_Customer\DataManager\bin\Debug\DataTier.pdb
+E:\Navio_Customer\DataManager\bin\Debug\Infrastructure.pdb
+E:\Navio_Customer\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+E:\Navio_Customer\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+E:\Navio_Customer\DataManager\obj\Debug\DataManager.dll
+E:\Navio_Customer\DataManager\obj\Debug\DataManager.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataManager.dll
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataManager.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataTier.dll
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\Infrastructure.dll
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\DataTier.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataManager\bin\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Navio-MVC_Customer\Navio_Software\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+E:\Navio-MVC_Customer\Navio_Software\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+E:\Navio-MVC_Customer\Navio_Software\DataManager\obj\Debug\DataManager.dll
+E:\Navio-MVC_Customer\Navio_Software\DataManager\obj\Debug\DataManager.pdb
+E:\Navio-Product\DataManager\bin\Debug\DataManager.dll
+E:\Navio-Product\DataManager\bin\Debug\DataManager.pdb
+E:\Navio-Product\DataManager\bin\Debug\DataBaseFactory.dll
+E:\Navio-Product\DataManager\bin\Debug\DataTier.dll
+E:\Navio-Product\DataManager\bin\Debug\Infrastructure.dll
+E:\Navio-Product\DataManager\bin\Debug\DataBaseFactory.pdb
+E:\Navio-Product\DataManager\bin\Debug\DataTier.pdb
+E:\Navio-Product\DataManager\bin\Debug\Infrastructure.pdb
+E:\Navio-Product\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+E:\Navio-Product\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+E:\Navio-Product\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+E:\Navio-Product\DataManager\obj\Debug\DataManager.dll
+E:\Navio-Product\DataManager\obj\Debug\DataManager.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csprojResolveAssemblyReference.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataManager.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataBaseFactory.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\DataTier.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\DataManager\obj\Debug\DataManager.pdb
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataManager.dll
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataManager.pdb
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataBaseFactory.dll
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataTier.dll
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\Infrastructure.dll
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataBaseFactory.pdb
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\DataTier.pdb
+D:\NVOC\NVOCShipping\DataManager\bin\Debug\Infrastructure.pdb
+D:\NVOC\NVOCShipping\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+D:\NVOC\NVOCShipping\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+D:\NVOC\NVOCShipping\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+D:\NVOC\NVOCShipping\DataManager\obj\Debug\DataManager.dll
+D:\NVOC\NVOCShipping\DataManager\obj\Debug\DataManager.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataManager.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataManager.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataBaseFactory.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataTier.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataBaseFactory.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\DataTier.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\obj\Debug\DataManager.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\obj\Debug\DataManager.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\obj\Debug\DataManager.csproj.CopyComplete
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\obj\Debug\DataManager.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\DataManager\obj\Debug\DataManager.pdb

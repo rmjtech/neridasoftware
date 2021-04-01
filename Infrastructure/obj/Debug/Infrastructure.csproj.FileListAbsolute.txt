@@ -1,0 +1,157 @@
+D:\SunDoc\Infrastructure\bin\Debug\Infrastructure.dll
+D:\SunDoc\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\SunDoc\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\SunDoc\Infrastructure\obj\Debug\Infrastructure.dll
+D:\SunDoc\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\SunDoc\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\SunDoc\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SunDoc\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\SunDoc\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\SunDoc\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.dll
+D:\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.dll
+D:\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\MechanicalToolsCatalogue\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Olympic Software\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\Olympic Software\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\Olympic Software\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\Software\Olympic Software\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Software\Olympic Software\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Software\Olympic Software\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+F:\Software\Olympic Software\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Software\Olympic Software\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\Infrastructure\bin\Debug\Infrastructure.dll
+F:\Software\Matrimonial\MatrimonialApplications\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\Infrastructure\obj\Debug\Infrastructure.dll
+F:\Software\Matrimonial\MatrimonialApplications\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\Software\Matrimonial\MatrimonialApplications\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\PlaySchools\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\PlaySchools\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\PlaySchools\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\PlaySchools\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\PlaySchools\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\Majestic Project\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\Majestic Project\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\Majestic Project\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\Majestic Project\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\KumarBuilders\Majestic Project\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Majestic Project\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Majestic Project\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Majestic Project\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\KumarBuilders\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\KumarBuilders\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\SGA\SGA\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\SGA\SGA\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\SGA\SGA\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\ENav\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\WebApplication\ENav\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav1\Infrastructure\bin\Debug\Infrastructure.dll
+D:\WebApplication\ENav1\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\WebApplication\ENav1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\WebApplication\ENav1\Infrastructure\obj\Debug\Infrastructure.dll
+D:\WebApplication\ENav1\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Server backup\ENav1\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Server backup\ENav1\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Server backup\ENav1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Server backup\ENav1\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Server backup\ENav1\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\navio web\ENav1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Muthu\Desktop\navio web\ENav1\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\navio web\ENav1\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Server backup\navioGST web\ENav1\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Server backup\navioGST web\ENav1\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Server backup\navioGST web\ENav1\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Server backup\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Server backup\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Server backup\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Server backup\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Server backup\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\CUCOR\Desktop\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Navio_Customer\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Navio_Customer\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Navio-MVC_Customer\Navio_Software\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+E:\Navio-Product\Infrastructure\bin\Debug\Infrastructure.dll
+E:\Navio-Product\Infrastructure\bin\Debug\Infrastructure.pdb
+E:\Navio-Product\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+E:\Navio-Product\Infrastructure\obj\Debug\Infrastructure.dll
+E:\Navio-Product\Infrastructure\obj\Debug\Infrastructure.pdb
+E:\Navio-Product\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.dll
+D:\Cucor D\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\Muthu\Desktop\MVC\Navio-Project Anjular\LTEIT-Pakage\LetITProject\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\NVOC\NVOCShipping\Infrastructure\bin\Debug\Infrastructure.dll
+D:\NVOC\NVOCShipping\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\NVOC\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+D:\NVOC\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+D:\NVOC\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.dll
+D:\NVOC\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\bin\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\bin\Debug\Infrastructure.pdb
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.csprojAssemblyReference.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.dll
+F:\NeridaShipping_Mvc\Backup\NVOCShipping\Infrastructure\obj\Debug\Infrastructure.pdb
